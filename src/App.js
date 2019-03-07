@@ -49,9 +49,7 @@ class App extends Component {
                   view: "about"
                 })
               }
-            >
-              {" "}
-              About Me{" "}
+            > About Me
             </Box>
             <Box> Projects </Box>
             <Box> Contact </Box>
@@ -66,12 +64,10 @@ class App extends Component {
                   view: "home"
                 })
               }
-            >
-              {" "}
-              back{" "}
+            > 
+            back
             </Box>
             <p>
-              {" "}
               Hello! I'm Dylan I'm a React developer! I really like building
               things with React. I have strong skills in front end development
               and soon I'll be learning backend.
